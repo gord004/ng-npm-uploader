@@ -1,0 +1,25 @@
+{
+  "name": "ng-sme-uploader",
+  "version": "0.0.1",
+  "description": "Angular Wrapper of SME Uploader",
+  "peerDependencies": {
+    "@angular/common": "^10.1.4",
+    "@angular/core": "^10.1.4"
+  },
+  "dependencies": {
+    "sme-uploader": "^1.0.7"
+  },
+  "private": false,
+  "keywords": [
+    "uploader",
+    "sme-uploader",
+    "file-upload",
+    "sme-uploader angular",
+    "angular file upload"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gord004/ng-npm-uploader"
+  }
+}
